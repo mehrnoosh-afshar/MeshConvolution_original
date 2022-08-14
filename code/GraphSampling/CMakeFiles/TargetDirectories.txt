@@ -1,0 +1,3 @@
+/home/mehrnoosh/Documents/Mehrnoosh_git/MeshConvolution/code/GraphSampling/CMakeFiles/rebuild_cache.dir
+/home/mehrnoosh/Documents/Mehrnoosh_git/MeshConvolution/code/GraphSampling/CMakeFiles/GraphSampling.dir
+/home/mehrnoosh/Documents/Mehrnoosh_git/MeshConvolution/code/GraphSampling/CMakeFiles/edit_cache.dir
